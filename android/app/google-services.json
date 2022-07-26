@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980452040770",
+    "project_id": "hyunflix-clone",
+    "storage_bucket": "hyunflix-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980452040770:android:68b900d6ab7d1b02080ddb",
+        "android_client_info": {
+          "package_name": "com.example.netflix_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980452040770-vat12kdil78glqqqk7qim0flo3b5o92t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netflix_clone",
+            "certificate_hash": "cb0d881516d36f5d12bd7409358534170f858486"
+          }
+        },
+        {
+          "client_id": "980452040770-bj76rc46mhqrs57irat8sbtt3qoutq28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuTvBBPvNkzlZv3ti44YeS54NuZPHuT14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980452040770-bj76rc46mhqrs57irat8sbtt3qoutq28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
